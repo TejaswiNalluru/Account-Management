@@ -1,0 +1,16 @@
+[
+    {
+        "Name":"Rani",
+        "Full Name":"Rani Singh",
+        "City":"Visakhapatnam",
+        "Email":"rani@gmail.com",
+        "Profession":"Student"
+    },
+    {
+        "Name":"Nisha",
+        "Full Name":"Nisha Roy",
+        "City":"Hyderabad",
+        "Email":"nisha@gmail.com",
+        "Profession":"Teacher"
+    }
+]
